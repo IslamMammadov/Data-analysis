@@ -25,7 +25,7 @@ The analysis tracks and evaluates monthly recurring customers, providing insight
 
 1. **Data Preparation**:
    - Input data (customer transactions or activity logs) in Excel format.
-   - Ensure necessary fields such as `Customer ID`, `Transaction Date`, and `Amount` are included.
+   - Ensure necessary fields such as `Customer`, `Sale_Date`,`Product`, and `Amount` are included.
 
 2. **Data Analysis**:
    - Use DuckDB to query and aggregate data.
